@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1256"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="6" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="330" y="306" type="line"/>
+      <point x="585" y="306" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="1235" y="0" type="line"/>
+      <point x="1235" y="205" type="line"/>
+      <point x="841" y="205" type="line"/>
+      <point x="841" y="771" type="line"/>
+      <point x="1148" y="771" type="line"/>
+      <point x="1148" y="995" type="line"/>
+      <point x="841" y="995" type="line"/>
+      <point x="841" y="1503" type="line"/>
+      <point x="1235" y="1503" type="line"/>
+      <point x="1235" y="1708" type="line"/>
+      <point x="438" y="1708" type="line"/>
+    </contour>
+    <contour>
+      <point x="369" y="492" type="line"/>
+      <point x="548" y="1356" type="line"/>
+      <point x="585" y="1356" type="line"/>
+      <point x="585" y="492" type="line"/>
+    </contour>
+    <contour>
+      <point x="620" y="500" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="620" y="-100" type="move" name="btm"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

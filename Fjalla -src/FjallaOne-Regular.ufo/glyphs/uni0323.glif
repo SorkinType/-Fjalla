@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0323" format="1">
+  <advance width="0"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="-1" y="-425" type="curve" smooth="yes"/>
+      <point x="98" y="-425"/>
+      <point x="157" y="-361"/>
+      <point x="157" y="-257" type="curve" smooth="yes"/>
+      <point x="157" y="-146"/>
+      <point x="99" y="-94"/>
+      <point x="0" y="-94" type="curve" smooth="yes"/>
+      <point x="-95" y="-94"/>
+      <point x="-156" y="-138"/>
+      <point x="-156" y="-257" type="curve" smooth="yes"/>
+      <point x="-156" y="-364"/>
+      <point x="-94" y="-425"/>
+    </contour>
+    <contour>
+      <point x="0" y="-100" type="move" name="_btm"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.967</real>
+    <real>0.6</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

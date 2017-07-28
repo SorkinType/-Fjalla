@@ -1,0 +1,67 @@
+
+# Script and language coverage
+languagesystem latn dflt;
+languagesystem latn MOL ;
+languagesystem latn ROM ;
+languagesystem latn TRK ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+feature aalt{
+  feature ordn;
+} aalt; 
+
+feature ordn {
+ script latn;
+  sub @ordn1 a' by ordfeminine;
+  sub @ordn1 o' by ordmasculine;
+  sub @ordn1 period a' by ordfeminine;
+  sub @ordn1 period o' by ordmasculine;
+} ordn; 
+
+feature sups { # Superscript
+ script latn; # Latin
+    sub @sups1 by @sups2;  
+} sups;
+
+feature liga {
+ script latn;
+  sub f i by f_i;
+  sub f l by f_l;
+  sub f f by f_f;
+} liga; 
+
+feature frac { # Fractions
+ script latn; # Latin
+    sub one slash four by onequarter;
+    sub one slash two by onehalf;
+    sub three slash four by threequarters;
+    sub zero slash zero zero by perthousand;
+    sub zero slash zero by percent;
+} frac;
+
+
+
+
+
+
+

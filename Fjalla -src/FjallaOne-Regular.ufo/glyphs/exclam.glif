@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="680"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="238" y="555" type="line"/>
+      <point x="445" y="555" type="line"/>
+      <point x="476" y="1813" type="line"/>
+      <point x="203" y="1813" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="177" type="curve" smooth="yes"/>
+      <point x="186" y="52"/>
+      <point x="247" y="-14"/>
+      <point x="341" y="-14" type="curve" smooth="yes"/>
+      <point x="440" y="-14"/>
+      <point x="499" y="56"/>
+      <point x="499" y="177" type="curve" smooth="yes"/>
+      <point x="499" y="309"/>
+      <point x="441" y="373"/>
+      <point x="342" y="373" type="curve" smooth="yes"/>
+      <point x="246" y="373"/>
+      <point x="186" y="317"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>1828</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>1792</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

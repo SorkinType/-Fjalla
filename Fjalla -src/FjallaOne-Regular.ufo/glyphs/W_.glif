@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="1469"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="278" y="0" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="686" y="821" type="line"/>
+      <point x="729" y="1178" type="line"/>
+      <point x="749" y="1178" type="line"/>
+      <point x="793" y="821" type="line"/>
+      <point x="934" y="0" type="line"/>
+      <point x="1197" y="0" type="line"/>
+      <point x="1436" y="1708" type="line"/>
+      <point x="1187" y="1708" type="line"/>
+      <point x="1082" y="676" type="line"/>
+      <point x="1070" y="435" type="line"/>
+      <point x="1044" y="435" type="line"/>
+      <point x="1024" y="676" type="line"/>
+      <point x="848" y="1708" type="line"/>
+      <point x="641" y="1708" type="line"/>
+      <point x="457" y="676" type="line"/>
+      <point x="433" y="435" type="line"/>
+      <point x="408" y="435" type="line"/>
+      <point x="395" y="676" type="line"/>
+      <point x="280" y="1708" type="line"/>
+      <point x="32" y="1708" type="line"/>
+    </contour>
+    <contour>
+      <point x="734" y="500" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="734" y="-100" type="move" name="btm"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>
