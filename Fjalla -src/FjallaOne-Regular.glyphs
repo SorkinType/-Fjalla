@@ -1,5 +1,5 @@
 {
-.appVersion = "1017";
+.appVersion = "983";
 classes = (
 {
 code = "onesuperior twosuperior threesuperior";
@@ -14,8 +14,7 @@ code = "zero one two three four five six seven eight nine";
 name = ordn1;
 }
 );
-copyright = "Copyright (c) 2012-2017, Sorkin Type Co (www.sorkintype.com)
-with Reserved Font Name \"Fjalla\" and Fjalla \"One\"";
+copyright = "Copyright (c) 2012-2017, Sorkin Type Co (www.sorkintype.com)\012with Reserved Font Name \"Fjalla\" and Fjalla \"One\"";
 customParameters = (
 {
 name = macintoshFONDFamilyID;
@@ -17708,6 +17707,10 @@ value = FjallaOne;
 {
 name = styleMapFamilyName;
 value = FjallaOne;
+},
+{
+name = "TTFAutohint options";
+value = "--hinting-limit=100 --strong-stem-width=GD";
 }
 );
 instanceInterpolations = {
@@ -17908,5 +17911,5 @@ y = 1997;
 );
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
